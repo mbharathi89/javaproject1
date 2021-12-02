@@ -15,3 +15,7 @@ SQL for Testers:
 https://pavanonlinetrainings.com/courses/sql-for-testers/
 
 
+
+I have added details for git modified push
+
+
