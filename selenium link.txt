@@ -1,0 +1,17 @@
+
+Selenium:
+https://www.youtube.com/watch?v=F3SaSHRsh-I&list=PLUDwpEzHYYLs6G9WOfFxiH5zMfgNxgmSV&index=11
+
+git:
+https://www.youtube.com/watch?v=1LEDY1S8FSc&list=PLUDwpEzHYYLuMNNTu0EdWBeBtXdRhj4Lv&index=5
+
+SoapUI:
+https://pavanonlinetrainings.com/courses/soapui-api-webservices-testing/
+
+Postman:
+https://pavanonlinetrainings.com/courses/postman-for-beginners/
+
+SQL for Testers:
+https://pavanonlinetrainings.com/courses/sql-for-testers/
+
+
